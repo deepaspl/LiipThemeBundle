@@ -1,7 +1,7 @@
 {
     "name": "deepaspl/theme-bundle",
     "type": "symfony-bundle",
-    "description": "Provides theming support for #Symfony2 Bundles",
+    "description": "Provides theming support for Symfony4 Bundles",
     "keywords": ["themes", "theming"],
     "license": "MIT",
     "authors": [
