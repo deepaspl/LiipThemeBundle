@@ -1,14 +1,11 @@
 Theme Bundle
 ============
 
-> This project is not longer maintained and recommends to use [SyliusThemeBundle](https://github.com/Sylius/SyliusThemeBundle) instead for support of Symfony 5 and Twig 3.
-> For migration have a look at [Migrate to SyliusThemeBundle](#migrate-to-syliusthemebundle).
+> This project is created form [LiipThemeBundle](https://github.com/liip/LiipThemeBundle) for twig 3.* 
 
 This bundle provides you the possibility to add themes to each bundle. In your
 bundle directory it will look under `Resources/themes/<themename>` or fall back
 to the normal Resources/views if no matching file was found.
-
-[![Build Status](https://travis-ci.com/liip/LiipThemeBundle.svg?branch=master)](https://travis-ci.com/liip/LiipThemeBundle)
 
 ## Installation
 
