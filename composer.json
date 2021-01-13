@@ -1,17 +1,13 @@
 {
-    "name": "liip/theme-bundle",
+    "name": "deepaspl/theme-bundle",
     "type": "symfony-bundle",
     "description": "Provides theming support for #Symfony2 Bundles",
     "keywords": ["themes", "theming"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Liip AG",
-            "homepage": "http://www.liip.ch/"
-        },
-        {
             "name": "Community contributions",
-            "homepage": "https://github.com/liip/LiipThemeBundle/contributors"
+            "homepage": "https://github.com/deepaspl/LiipThemeBundle/contributors"
         }
     ],
     "require": {
